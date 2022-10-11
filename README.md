@@ -9,3 +9,5 @@
 2. Membuat <b>Deret Bilangan Prima Dengan Perulangan For Nested Looping.</b>
 
 <b>Output in browser : </b>
+
+![9_2](https://user-images.githubusercontent.com/92837751/195011275-1c2d1afb-61b2-4f77-8bac-90d068b5d67e.jpg)
